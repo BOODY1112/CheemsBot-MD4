@@ -68,7 +68,7 @@ global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your the
 global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
 global.reactmoji = "🌚" //ur menu react emoji
-global.themeemoji = "🌞" //ur theme emoji
+global.themeemoji = "🐦" //ur theme emoji
 global.packname = "⍣ عَ ـمِك بّـوِدُيّ ⍣" //ur sticker watermark packname
 global.author = "⍣01062389136⍣" //ur sticker watermark author
 
